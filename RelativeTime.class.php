@@ -36,7 +36,7 @@ class RelativeTime {
         }
         
         arsort($time);
-        return $this->RelativeTime($time[0], $time[1]);
+        return $this->RelativeTime($time[1], $time[0]);
     }
     
     public function since($time)
