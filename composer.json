@@ -11,6 +11,7 @@
             "url": "https://github.com/bendahrooge/RelativeTime"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "bendahrooge\\": ["/", "RelativeTime.class.php"] }
     }
