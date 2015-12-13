@@ -11,7 +11,7 @@ Run this command in this command in your terminal to quickly install the package
 
     composer require bendahrooge/relative-time
     
-If you don't know what composer is (its pretty awesum) (https://getcomposer.org/doc/00-intro.md "check out the documentation to install it.")
+If you don't know what composer is (its pretty awesum) [check out the documentation to install it.](https://getcomposer.org/doc/00-intro.md)
 
 ## Getting Relative Time
 
