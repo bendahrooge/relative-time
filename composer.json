@@ -4,12 +4,14 @@
     "dist": {
         "type": "vcs",
         "url": "https://github.com/bendahrooge/RelativeTime"
-        
-    }
+    },
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/bendahrooge/RelativeTime"
         }
     ],
+    "autoload": {
+        "psr-4": { "bendahrooge\\": ["/", "RelativeTime.class.php"] }
+    }
 }
