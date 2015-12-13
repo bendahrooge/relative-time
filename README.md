@@ -20,7 +20,7 @@ You can start an instance of the class like this:
 
     $RelativeTime = new bendahrooge\RelativeTime;
 
-The Library has 3 public functions avaible for use
+The Library has 3 public functions avaible for use. 
 All functions only support Unix time at the moment, if you wanna fix that and make a pull request that's cool. 
 
     $RelativeTime = new bendahrooge\RelativeTime;
