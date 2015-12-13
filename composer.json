@@ -1,9 +1,16 @@
 {
     "name": "bendahrooge/relative-time",
     "version": "1.0",
-    "autoload": {
-        "files": [
-            "RelativeTime.class.php"
-        ]
-    }
+    "type": "library",
+    "description": "Relative Time Calculator for PHP in 100 lines",
+    "homepage": "https://github.com/bendahrooge/relative-time",
+    "keywords": ["Relative Time", "Time since", "Time until", "Time between"],
+    "license": "MIT",
+    "authors": [{
+            "name": "Ben Dahrooge",
+            "email": "ben@dahrooge.com",
+            "homepage": "https://ben.dahrooge.com",
+            "role": "Developer"
+    }],
+    "autoload": {"files": ["RelativeTime.class.php"]}
 }
