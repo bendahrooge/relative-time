@@ -1,16 +1,6 @@
 {
     "name": "bendahrooge/relative-time",
     "version": "1.0",
-    "dist": {
-        "type": "vcs",
-        "url": "https://github.com/bendahrooge/RelativeTime"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/bendahrooge/RelativeTime"
-        }
-    ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "bendahrooge\\": ["/", "RelativeTime.class.php"] }
