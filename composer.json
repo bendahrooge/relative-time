@@ -2,6 +2,6 @@
     "name": "bendahrooge/relative-time",
     "version": "1.0",
     "autoload": {
-        "psr-4": { "bendahrooge\\": ["/", "RelativeTime.class.php"] }
+        "psr-4": { "bendahrooge\\": "" }
     }
 }
