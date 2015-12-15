@@ -6,7 +6,6 @@
     "homepage": "https://github.com/bendahrooge/relative-time",
     "keywords": ["Relative Time", "Time since", "Time until", "Time between"],
     "license": "MIT",
-    "minimum-stability": "stable",
     "authors": [{
             "name": "Ben Dahrooge",
             "email": "ben@dahrooge.com",
